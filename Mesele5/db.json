@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Elsad",
+      "surname": "Xalilov",
+      "yearOfBirth": "1998",
+      "id": 1
+    },
+    {
+      "name": "ali",
+      "surname": "qasimzade",
+      "yearOfBirth": "2025-02-03",
+      "id": 2
+    },
+    {
+      "name": "ali",
+      "surname": "qasimzade",
+      "yearOfBirth": "2029-03-01",
+      "id": 3
+    },
+    {
+      "name": "rufte",
+      "surname": "sds",
+      "yearOfBirth": "2025-03-01",
+      "id": 4
+    }
+  ]
+}
